@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jeevacse-07/leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jeevacse-07/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jeevacse-07/leetcode-problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
