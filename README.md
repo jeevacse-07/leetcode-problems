@@ -11,17 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jeevacse-07/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jeevacse-07/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/jeevacse-07/leetcode-problems/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeevacse-07/leetcode-problems/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/jeevacse-07/leetcode-problems/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jeevacse-07/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/jeevacse-07/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/jeevacse-07/leetcode-problems/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/jeevacse-07/leetcode-problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jeevacse-07/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/jeevacse-07/leetcode-problems/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,8 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/jeevacse-07/leetcode-problems/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeevacse-07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jeevacse-07/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
