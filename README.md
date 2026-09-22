@@ -52,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeevacse-07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevacse-07/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/jeevacse-07/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jeevacse-07/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jeevacse-07/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/jeevacse-07/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/jeevacse-07/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
