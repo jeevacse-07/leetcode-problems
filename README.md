@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jeevacse-07/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jeevacse-07/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevacse-07/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/jeevacse-07/leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jeevacse-07/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeevacse-07/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/jeevacse-07/leetcode-problems/tree/master/0242-valid-anagram) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/jeevacse-07/leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Trie
 |  |
 | ------- |
