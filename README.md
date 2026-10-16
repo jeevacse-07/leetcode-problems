@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jeevacse-07/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jeevacse-07/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevacse-07/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0867-transpose-matrix](https://github.com/jeevacse-07/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -117,8 +118,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jeevacse-07/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/jeevacse-07/leetcode-problems/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jeevacse-07/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/jeevacse-07/leetcode-problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
