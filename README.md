@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jeevacse-07/leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jeevacse-07/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/jeevacse-07/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jeevacse-07/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jeevacse-07/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jeevacse-07/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jeevacse-07/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jeevacse-07/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/jeevacse-07/leetcode-problems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/jeevacse-07/leetcode-problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
